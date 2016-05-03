@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  Weather
-//
-//  Created by Ankur Jain on 30/04/16.
-//  Copyright © 2016 Tanisha. All rights reserved.
-//
+
 
 import UIKit
 

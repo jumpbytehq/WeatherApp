@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  Weather
-//
-//  Created by Tanisha Jain on 30/04/16.
-//  Copyright © 2016 Tanisha. All rights reserved.
-//
+
 
 import UIKit
 
